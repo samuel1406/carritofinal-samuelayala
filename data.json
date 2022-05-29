@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "titulo": "Hamburguesa completa!",
+    "imagen": "./img/burguer1.png",
+    "descripcion": "hamburguesa completa con doble carne,chedar,bacon y cebolla crispy.",
+    "precio": " 900"
+  },
+
+  {
+    "id": 2,
+    "titulo": "Papas fritas!",
+    "imagen": "./img/papas.png",
+    "descripcion": "Porcion de papas con aderezo a eleccion.",
+    "precio": " 500"
+  },
+  {
+    "id": 3,
+    "titulo": "Pizza a la calabreza",
+    "imagen": "./img/pizza.png",
+    "descripcion": "Pizza con mozzarella acompañada con una exquisita longaniza. ",
+    "precio": " 950"
+  },
+  {
+    "id": 4,
+    "titulo": "Hamburguesa con bacon!",
+    "imagen": "./img/burguer.png",
+    "descripcion": "Hamburguesa con doble carne y bacon!  ",
+    "precio": " 550"
+  },
+  {
+    "id": 5,
+    "titulo": "Pizza especial de la casa!",
+    "imagen": "./img/pizza2.png",
+    "descripcion": "Pizza mozzarella acompañada de salamin de calidad y aji picante.",
+    "precio": " 950"
+  },
+  {
+    "id": 6,
+    "titulo": "Cervezas!",
+    "imagen": "./img/ceveza1.png",
+    "descripcion": "Balde de seis cervezas Heineken.",
+    "precio": " 2500"
+  },
+  {
+    "id": 7,
+    "titulo": "Lomito completo!",
+    "imagen": "./img/lomito.jpg",
+    "descripcion": "exquisito lomo con fritas!",
+    "precio": " 950"
+  },
+  {
+    "id": 8,
+    "titulo": "Bebidas",
+    "imagen": "./img/bebidas.png",
+    "descripcion": "Pack de 4 gaseosas",
+    "precio": "600"
+  },
+  {
+    "id": 9,
+    "titulo": "Rabas para compartir!",
+    "imagen": "./img/rabas.png",
+    "descripcion": "Porcion de rabas para dos personas",
+    "precio": " 1100"
+  },
+
+  {
+    "id": 10,
+    "titulo": "Mix de rebozados!",
+    "imagen": "./img/rebozado.png",
+    "descripcion": "mix de pollo,langostinos y aros de cebolla",
+    "precio": " 1000"
+  },
+
+  {
+    "id": 11,
+    "titulo": "Papas fritas con chedar y bacon!",
+    "imagen": "./img/papas2.png",
+    "descripcion": "Pocion de fritas con baño de chedar y bacon!",
+    "precio": " 600"
+  },
+
+  {
+    "id": 12,
+    "titulo": "Langostinos rebozados!",
+    "imagen": "./img/langostinos.png",
+    "descripcion": "Langostinos rebozados con salsa a eleccion",
+    "precio": " 950"
+  }
+
+
+]
